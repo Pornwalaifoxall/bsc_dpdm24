@@ -50,7 +50,23 @@ SIDS KKU Data Preparation and Data Mining
 ## 🏠 ** Homework Assignments **
 | 🎒 **Homework** | 📚 **Code** |
 |------------|------------------------------------------|
-| 📚 **Homework** | [
+| 📚 **Homework 1** | [📚](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/d5ea095e6f09c22b403c74dae450786128f10df6/Data_Preprocessing_2024.ipynb)
+| 📚 **Homework 2** | [📚](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/5d1d66f9628eea87ccc246deb3e43ca614e9766c/Chapter_3_Data_Preprocessing_2024.ipynb)
+| 📚 **Homework 4** | [📚](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/HW4.pdf)
+
+---
+
+## 📖 **Quiz Results**
+| 📂 **Quiz** | 📜 **Code** |
+|------------|------------------------------------------|
+| ❓ **Quiz 3** | [❓](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/4b35a03fab0dabf79473ff2fab23a91009ca1e38/Chapter_2_Understanding_Data.ipynb)
+| ❓ **Quiz 7** | [❓](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/4b353806999d305b3217725cfe7f4c3cfeebdf0f/quiz%207.pdf)
+| ❓ **Quiz 8** | [❓](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/a4bf5783ae45313958a1ec91098ce01bd9deecf7/Quiz%208.pdf)
+| ❓ **Quiz 10** | [❓](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/1d6baba10c09b2ba9f7330766de65e565b441055/Quiz%2010.pdf)
+| ❓ **Quiz 12** | [❓](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/70a8f80ae575a1eb461d73896dbb348ad8736d51/Chapter_5_Classification.ipynb)
+| ❓ **Quiz 13** | [❓](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/056bbe3b859b53caffd1a73e171643585e261346/08ClassBasic.pdf)
+
+---
 
 ## 🎯 **Final Project**  
 | 🏆 **Project Name** | 📝 **Details** |
