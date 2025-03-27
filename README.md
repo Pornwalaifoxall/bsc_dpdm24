@@ -42,3 +42,4 @@ SIDS KKU Data Preparation and Data Mining
 | 🏆 **Total** | `100%` | *Total Score* |
 🚀 **Final Score Formula**  
 Final Score = (Total Score) × (% Attendance)
+
