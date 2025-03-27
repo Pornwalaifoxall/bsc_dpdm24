@@ -44,15 +44,15 @@ SIDS KKU Data Preparation and Data Mining
 ## 🛠 **Assignments Group Work**  
 | 📂 **Task** | 📜 **Files** |
 |------------|------------------------------------------|
-| 🏠 **Homework 3 (Group Work)** | [📜 Code](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/HW3group.ipynb)  •  [📜 Slides](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/HW3.pdf) |
+| 🏠 **Homework 3 (Group Work)** | [🗂️ Code](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/HW3group.ipynb)  •  [📜 Slides](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/HW3.pdf) |
 
 ---
 
 ## 🏠 **Homework Assignments**  
 | 🎒 **Homework** | 📑 **Materials** |
 |---------------|------------------------------------------------|
-| 📚 **Homework 1** | [📜 Notebook](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/d5ea095e6f09c22b403c74dae450786128f10df6/Data_Preprocessing_2024.ipynb) |
-| 📚 **Homework 2** | [📜 Notebook](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/5d1d66f9628eea87ccc246deb3e43ca614e9766c/Chapter_3_Data_Preprocessing_2024.ipynb) |
+| 📚 **Homework 1** | [🗂️ Code](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/d5ea095e6f09c22b403c74dae450786128f10df6/Data_Preprocessing_2024.ipynb) |
+| 📚 **Homework 2** | [🗂️ Code](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/5d1d66f9628eea87ccc246deb3e43ca614e9766c/Chapter_3_Data_Preprocessing_2024.ipynb) |
 | 📚 **Homework 4** | [📜 PDF](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/HW4.pdf) |
 
 ---
@@ -60,13 +60,29 @@ SIDS KKU Data Preparation and Data Mining
 ## 📖 **Quiz Results**  
 | 📂 **Quiz** | 📑 **Materials** |
 |------------|------------------------------------------------|
-| ❓ **Quiz 3** | [📜 Notebook](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/4b35a03fab0dabf79473ff2fab23a91009ca1e38/Chapter_2_Understanding_Data.ipynb) |
+| ❓ **Quiz 3** | [🗂️ Code](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/4b35a03fab0dabf79473ff2fab23a91009ca1e38/Chapter_2_Understanding_Data.ipynb) |
 | ❓ **Quiz 7** | [📜 PDF](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/4b353806999d305b3217725cfe7f4c3cfeebdf0f/quiz%207.pdf) |
 | ❓ **Quiz 8** | [📜 PDF](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/a4bf5783ae45313958a1ec91098ce01bd9deecf7/Quiz%208.pdf) |
 | ❓ **Quiz 10** | [📜 PDF](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/1d6baba10c09b2ba9f7330766de65e565b441055/Quiz%2010.pdf) |
-| ❓ **Quiz 12** | [📜 Notebook](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/70a8f80ae575a1eb461d73896dbb348ad8736d51/Chapter_5_Classification.ipynb) |
+| ❓ **Quiz 12** | [🗂️ Code](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/70a8f80ae575a1eb461d73896dbb348ad8736d51/Chapter_5_Classification.ipynb) |
 | ❓ **Quiz 13** | [📜 PDF](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/056bbe3b859b53caffd1a73e171643585e261346/08ClassBasic.pdf) |
 
+---
+
+## 📝 **Exam**
+| 📝 **Exam** | **Code** |
+|------------|------------------------------------------------|
+| 🖋️ **Midterm Exam** | [🗂️ Code](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/72bd9483c452da9fab8d53affc4e2ac978f02a54/midterm_dpdm24.ipynb) |
+| 🖋️ **Final Exam** | [🗂️ Code](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/c52f851418957379349e9af16d04ec48dd20dda7/Final_Exam.ipynb) |
+
+---
+
+## 📄 **Course Topics (code)**
+| 📄 ** Course** | 📜 **Topic** |
+|------------|------------------------------------------------|
+| 📜 **Chapter_2_Understanding_Data** | [🗂️ Code](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/10a5eb0c39757f72a2271cdbb0918a605a34e094/Chapter_2_Understanding_Data.ipynb) |
+| 📜 **Chapter_3_Data_Preprocessing_2024** | [🗂️ Code](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/1ad443cc767a555d8aea59bb7c036d233666470f/Chapter_3_Data_Preprocessing_2024.ipynb) |
+| 📜 **Frequent_Patterns_(Association_Rules)** | [🗂️ Code](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/8bd1a82afe33cd699cdff27ae6d8a348be9d0e7d/Frequent_Patterns_(Association_Rules).ipynb) |
 
 ---
 
