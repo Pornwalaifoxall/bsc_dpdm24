@@ -20,7 +20,7 @@ SIDS KKU Data Preparation and Data Mining
 ## 🔥 **Course Highlights**  
 | 📌 Topic | 🔍 Description |
 |----------|--------------|
-| ⭐ **Intro to Data Mining** | Basic concepts of Data Mining and its applications |
+| ⭐ **Intro to Data Mining** | Introduction & Getting to Know Your Data|
 | 📊 **Data Preprocessing** | Data cleaning, transformation, and feature engineering |
 | 🔗 **Association & Correlation** | Analyzing relationships between data points |
 | 📂 **Classification** | Supervised learning and model evaluation |
@@ -40,12 +40,17 @@ SIDS KKU Data Preparation and Data Mining
 
 ---
 
-## 🛠 **Assignments & Group Work**  
+## 🛠 **Assignments Group Work**  
 | 📂 **Task** | 📜 **Files** |
 |------------|------------------------------------------|
 | 🏠 **Homework 3 (Group Work)** | [📜 Code](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/HW3group.ipynb)  •  [📜 Slides](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/HW3.pdf) |
 
 ---
+
+## 🏠 ** Homework Assignments **
+| 🎒 **Homework** | 📚 **Code** |
+|------------|------------------------------------------|
+| 📚 **Homework** | [
 
 ## 🎯 **Final Project**  
 | 🏆 **Project Name** | 📝 **Details** |
