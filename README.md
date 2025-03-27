@@ -30,7 +30,7 @@ SIDS KKU Data Preparation and Data Mining
 - [📂 codepython](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/HW3group.ipynb)
 - [📂 Slide](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/HW3.pdf)
 
-## [![Project Final](https://img.shields.io/badge/Project Final-Python-orange)]()
+## [![Project_Final](https://img.shields.io/badge/Project_Final-Python-orange)]()
 
 - [🐍 codepython](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/Project_Thyriod_.ipynb)
 - [🐍 Slide](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/project%20thyroid%20cancer.pdf)
