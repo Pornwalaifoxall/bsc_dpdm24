@@ -18,19 +18,22 @@ SIDS KKU Data Preparation and Data Mining
 # 🎓 BSC_DPDM23 - Data Mining Course  
 ## [![Course](https://img.shields.io/badge/Course-Data%20Mining-blue)]()
 
-- [📄 ดาวน์โหลดหลักสูตร: บทนำ](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/01Intro.pdf)
-- [📄 ดาวน์โหลดหลักสูตร: ข้อมูล](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/02Data.pdf)
-- [📄 ดาวน์โหลดหลักสูตร: การเตรียมข้อมูล](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/03Preprocessing.pdf)
-- [📄 ดาวน์โหลดหลักสูตร: กฎความสัมพันธ์](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/06FPBasic.pdf)
-- [📄 ดาวน์โหลดหลักสูตร: การจำแนกประเภท](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/08ClassBasic.pdf)
-- [📄 ดาวน์โหลดหลักสูตร: การจัดกลุ่ม](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/10ClusBasic.pdf)
+- [📄 บทนำ](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/01Intro.pdf)
+- [📄 ข้อมูล](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/02Data.pdf)
+- [📄 การเตรียมข้อมูล](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/03Preprocessing.pdf)
+- [📄 กฎความสัมพันธ์](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/06FPBasic.pdf)
+- [📄 การจำแนกประเภท](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/08ClassBasic.pdf)
+- [📄 การจัดกลุ่ม](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/10ClusBasic.pdf)
 
-![Work_Group](https://img.shields.io/badge/Slide-Ongoing-green)
+## [![Work_Group](https://img.shields.io/badge/Slide-Ongoing-green)]()
 
-- [📂 ดาวน์โหลดสไลด์](HW3.pdf)
-- 
-![Quiz](https://img.shields.io/badge/Project-Python-orange)
+- [📂 codepython](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/HW3group.ipynb)
+- [📂 Slide](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/HW3.pdf)
 
+## [![Project](https://img.shields.io/badge/Project-Python-orange)]()
+
+- [🐍](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/Project_Thyriod_.ipynb)
+- [🐍](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/project%20thyroid%20cancer.pdf)
 
 ## 📌 **Grading System**
 | Activity        | Score %  | Type  |
