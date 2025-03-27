@@ -1,6 +1,12 @@
 # bsc_dpdm24
 SIDS KKU Data Preparation and Data Mining
-653020573-2 นางสาวพรวลัย ฟ็อกซ์ออล SIDS
+
+อาจารย์ผู้สอน 👨‍🏫
+ผศ.ดร.ธนพงศ์ อินทระ
+
+🧑‍💻 Pornwalai Foxall ID: 653020573-2 SIDS
+      นางสาวพรวลัย ฟ็อกซ์ออล 653020573-2 SIDS
+
 
 # 🎓 BSC_DPDM24 - Data Preparation & Data Mining  
 **Bachelor of Science in Statistics & Data Science**  
