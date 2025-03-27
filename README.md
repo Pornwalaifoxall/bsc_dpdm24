@@ -7,6 +7,14 @@ SIDS KKU Data Preparation and Data Mining
 📍 **Department of Statistics, Faculty of Science, Khon Kaen University**
 
 
+## 🔥 Course Highlights
+- ⭐ **Intro to Data Mining**   
+- 📊 **Data Preprocessing**
+- 🔗 **Association and Correlation**
+- 📂 **Classification**
+- 🤖 **Cluster Analysis**
+  
+
 # 🎓 BSC_DPDM23 - Data Mining Course  
 ## [![Course](https://img.shields.io/badge/Course-Data%20Mining-blue)]()
 
@@ -18,16 +26,10 @@ SIDS KKU Data Preparation and Data Mining
 - [📄 ดาวน์โหลดหลักสูตร: การจัดกลุ่ม](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/10ClusBasic.pdf)
 
 ![Work_Group](https://img.shields.io/badge/Slide-Ongoing-green)
-[📂 ดาวน์โหลดสไลด์](HW3.pdf)
+
+- [📂 ดาวน์โหลดสไลด์](HW3.pdf)
+- 
 ![Quiz](https://img.shields.io/badge/Project-Python-orange)
-
-
-## 🔥 Course Highlights
-- ⭐ **Intro to Data Mining**   
-- 📊 **Data Preprocessing**
-- 🔗 **Association and Correlation**
-- 📂 **Classification**
-- 🤖 **Cluster Analysis**
 
 
 ## 📌 **Grading System**
