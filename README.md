@@ -1,5 +1,6 @@
 # bsc_dpdm24
 SIDS KKU Data Preparation and Data Mining
+653020573-2 นางสาวพรวลัย ฟ็อกซ์ออล SIDS
 
 # 🎓 BSC_DPDM24 - Data Preparation & Data Mining  
 **Bachelor of Science in Statistics & Data Science**  
@@ -72,7 +73,7 @@ SIDS KKU Data Preparation and Data Mining
 ## 🎯 **Final Project**  
 | 🏆 **Project Name** | 📝 **Details** |
 |--------------------|------------------------------------------------|
-| 🐍 **Thyroid Cancer Analysis** | [🐍 Code](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/Project_Thyriod_.ipynb)  •  [📜 Slides](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/project%20thyroid%20cancer.pdf) |
+|🦋🧬 **Thyroid Cancer Analysis** | [💊🩸 Code](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/Project_Thyriod_.ipynb)  •  [📜 Slides](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/project%20thyroid%20cancer.pdf) |
 
 ---
 
