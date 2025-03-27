@@ -25,15 +25,15 @@ SIDS KKU Data Preparation and Data Mining
 - [📄 การจำแนกประเภท](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/08ClassBasic.pdf)
 - [📄 การจัดกลุ่ม](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/10ClusBasic.pdf)
 
-## [![Work_Group](https://img.shields.io/badge/Slide-Ongoing-green)]()
+## [![Work_Group](https://img.shields.io/badge/Work_Group-Ongoing-green)]()
 
 - [📂 codepython](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/HW3group.ipynb)
 - [📂 Slide](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/HW3.pdf)
 
-## [![Project](https://img.shields.io/badge/Project-Python-orange)]()
+## [![Project Final](https://img.shields.io/badge/Project Final-Python-orange)]()
 
-- [🐍](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/Project_Thyriod_.ipynb)
-- [🐍](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/project%20thyroid%20cancer.pdf)
+- [🐍 codepython](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/Project_Thyriod_.ipynb)
+- [🐍 Slide](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/project%20thyroid%20cancer.pdf)
 
 ## 📌 **Grading System**
 | Activity        | Score %  | Type  |
