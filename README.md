@@ -9,14 +9,24 @@ SIDS KKU Data Preparation and Data Mining
 
 # 🎓 BSC_DPDM23 - Data Mining Course  
 ![Course](https://img.shields.io/badge/Course-Data%20Mining-blue)
-![Status](https://img.shields.io/badge/Status-Ongoing-green)
-![Language](https://img.shields.io/badge/Language-Python-orange)
+[📄 ดาวน์โหลดหลักสูตร](01Intro.pdf)
+[📄 ดาวน์โหลดหลักสูตร](02Data.pdf) 
+[📄 ดาวน์โหลดหลักสูตร](03Preprocessing.pdf) 
+[📄 ดาวน์โหลดหลักสูตร](06FPBasic.pdf) 
+[📄 ดาวน์โหลดหลักสูตร](08ClassBasic.pdf) 
+[📄 ดาวน์โหลดหลักสูตร](10ClusBasic.pdf) 
+![Work_Group](https://img.shields.io/badge/Slide-Ongoing-green)
+[📂 ดาวน์โหลดสไลด์](HW3.pdf)
+![Quiz](https://img.shields.io/badge/Project-Python-orange)
+
 
 ## 🔥 Course Highlights
+- ⭐ **Intro to Data Mining**   
 - 📊 **Data Preprocessing**
-- 🤖 **Machine Learning Models**
-- 📈 **Evaluation Metrics**
-- 🏆 **Real-World Applications**
+- 🔗 **Association and Correlation**
+- 📂 **Classification**
+- 🤖 **Cluster Analysis**
+
 
 ## 📌 **Grading System**
 | Activity        | Score %  | Type  |
@@ -27,7 +37,6 @@ SIDS KKU Data Preparation and Data Mining
 | 🏠 **Homework** | `20%` | *Weekly Assignments* |
 | 📢 **Participation** | `5%` | *Classroom Discussions* |
 | 💻 **GitHub Contributions** | `5%` | *Code Sharing* |
-
+| 🏆 **Total** | `100%` | *Total Score* |
 🚀 **Final Score Formula**  
-```math
 Final Score = (Total Score) × (% Attendance)
