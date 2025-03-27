@@ -10,12 +10,12 @@ SIDS KKU Data Preparation and Data Mining
 # 🎓 BSC_DPDM23 - Data Mining Course  
 ## [![Course](https://img.shields.io/badge/Course-Data%20Mining-blue)]()
 
-- [📄 ดาวน์โหลดหลักสูตร: บทนำ](files/01Intro.pdf)
-- [📄 ดาวน์โหลดหลักสูตร: ข้อมูล](files/02Data.pdf)
-- [📄 ดาวน์โหลดหลักสูตร: การเตรียมข้อมูล](files/03Preprocessing.pdf)
-- [📄 ดาวน์โหลดหลักสูตร: กฎความสัมพันธ์](files/06FPBasic.pdf)
-- [📄 ดาวน์โหลดหลักสูตร: การจำแนกประเภท](files/08ClassBasic.pdf)
-- [📄 ดาวน์โหลดหลักสูตร: การจัดกลุ่ม](files/10ClusBasic.pdf)
+- [📄 ดาวน์โหลดหลักสูตร: บทนำ](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/01Intro.pdf)
+- [📄 ดาวน์โหลดหลักสูตร: ข้อมูล](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/02Data.pdf)
+- [📄 ดาวน์โหลดหลักสูตร: การเตรียมข้อมูล](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/03Preprocessing.pdf)
+- [📄 ดาวน์โหลดหลักสูตร: กฎความสัมพันธ์](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/06FPBasic.pdf)
+- [📄 ดาวน์โหลดหลักสูตร: การจำแนกประเภท](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/08ClassBasic.pdf)
+- [📄 ดาวน์โหลดหลักสูตร: การจัดกลุ่ม](https://github.com/Pornwalaifoxall/bsc_dpdm24/blob/main/10ClusBasic.pdf)
 
 ![Work_Group](https://img.shields.io/badge/Slide-Ongoing-green)
 [📂 ดาวน์โหลดสไลด์](HW3.pdf)
